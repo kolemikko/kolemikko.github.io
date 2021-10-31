@@ -1,0 +1,9 @@
+#+TITLE: Test website
+
+*  Creating website from org-file
+
+Testing how to create website with org-mode.
+
+#+begin_src emacs-lisp
+ (message "Oh my, it seems to work")
+#+end_src
