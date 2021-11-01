@@ -1,9 +1,12 @@
-#+TITLE: Test website
+#+TITLE: My homepage
 
-*  Creating website from org-file
-
-Testing how to create website with org-mode.
+*  Created from org-file
 
 #+begin_src emacs-lisp
  (message "Oh my, it seems to work")
 #+end_src
+
+* Links
+
+[[https://www.linkedin.com/in/kolemikko][Linkedin]]
+[[https://github.com/kolemikko][Github]]
