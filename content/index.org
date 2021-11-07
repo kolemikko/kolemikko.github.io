@@ -10,3 +10,4 @@
 
 [[https://www.linkedin.com/in/kolemikko][Linkedin]]
 [[https://github.com/kolemikko][Github]]
+[[file:cv.org][CV]]

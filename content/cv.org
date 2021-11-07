@@ -1,0 +1,45 @@
+#+TITLE: CV
+
+* Mikko Kolehmainen
+*** Programmer, developer and problem solver
+
+* Education
+**** *Aalto University, Sound in New Media*
+Master of Arts degree in interactive sound design including game design and computer science studies. Master’s thesis on topic “How to optimize the implementation process and data management in game audio production” (2020).
+
+**** *Helsinki University of Arts, Sibelius-Academy*
+Bachelor of Music (2016), Music and Technology department
+
+* Work history
+
+Working as a audio programmer at *Rovio Entertainment* (2021-).
+
+Worked as a junior audio programmer at *Remedy Entertainment* (2020-2021) on unannounced game project and internal development. Co-designing and programming features for in-house game engine Northlight, maintaining audio code base and middleware integration, but also developing custom tools for the audio pipeline.
+
+Worked as an technical audio designer at *Remedy Entertainment* (2018-2020) on titles Control and Crossfire X (PC, PS4, Xbox). Music implementation, system design, implementation and audio optimization on game projects, but also development and programming of internal tools. Mostly working with in-house game engine Northlight and Audiokinetic Wwise.
+
+Worked as principal sound designer for *Convict games* (2018) on a title Stone (PC, Mac, Xbox, Nintendo Switch). Work involved organizing, directing and executing voice-over sessions in Finland and Australia, sound design, implementation with Unreal Engine.
+
+Worked as sound designer for *3rd Eye Studios* (2017-2018) on title Downward Spiral (PS4, PSVR, PC and Oculus). Work involved sound design, implementation with custom cross-platform audio tools for Unity.
+
+** Developing software tools
+
+ Variety of tools, standalone applications and extensions for 3rd party software such as *Unity*,  Audiokinetic *Wwise* and Cockos *Reaper*. Some examples: automated implementation and asset management extension for Wwise, dialogue/ADR recording software, code reference finder, version control and automation extensions for Reaper.
+
+ Personal projects include file encryption tools, file finding and parsing tools, customizing linux systems and scripting, signal processing tools, generative music sofware and random projects with Arduino with wide selection of sensors.
+
+** Skills
+
+ Professional experience with *C++*, *C#*, *Python* and *Lua*, and personal projects additionally *Go*, *Elisp*, and scripting languages.
+
+ Solid understanding of editors and software development tools such as *Vim*, *Emacs*, Visual Studio, *Pycharm*, Rider, *Git* and Perforce.
+
+ Experience with setting up and using operating systems such as *Arch linux*, Kali linux, *Qubes Os*, *Ubuntu*, *MacOS*, Microsoft Windows, iOS, Android and *GrapheneOS*.
+
+ Basic knowledge of self-hosted servers, networking, NAS setups and cloud services such as AWS and Google Cloud, but also embedded development with *Raspberry Pi*, Teensy, Arduino and other electronics.
+
+ Great team working and communication skills both in English and Finnish.
+
+** Freetime
+
+ Outside of work, I'm interested in a number of things e.g. music, DIY, board/video games and climbing.
