@@ -30,16 +30,16 @@ Worked as sound designer for *3rd Eye Studios* (2017-2018) on title Downward Spi
 
 ** Skills
 
- Professional experience with *C++*, *C#*, *Python* and *Lua*, and personal projects additionally *Go*, *Elisp*, and scripting languages.
+ Professional experience with *C++*, *C#*, *Python* and *Lua*, and personal projects additionally *Rust*, *Go*, *Elisp*, and scripting languages.
 
- Solid understanding of editors and software development tools such as *Vim*, *Emacs*, Visual Studio, *Pycharm*, Rider, *Git* and Perforce.
+ Solid understanding of editors and software development tools such as *Vim*, *Emacs*, Visual Studio, Pycharm, Rider, *Git* and Perforce.
 
  Experience with setting up and using operating systems such as *Arch linux*, Kali linux, *Qubes Os*, *Ubuntu*, *MacOS*, Microsoft Windows, iOS, Android and *GrapheneOS*.
 
- Basic knowledge of self-hosted servers, networking, NAS setups and cloud services such as AWS and Google Cloud, but also embedded development with *Raspberry Pi*, Teensy, Arduino and other electronics.
+ Basic knowledge of self-hosted servers, networking, NAS setups and cloud services such as AWS and Google Cloud, but also embedded development with *Raspberry Pi*, Esp32, Arduino and other electronics.
 
  Great team working and communication skills both in English and Finnish.
 
 ** Freetime
 
- Outside of work, I'm interested in a number of things e.g. music, DIY, board/video games and climbing.
+ Outside of work, I'm interested in number of things e.g. DIY, music, farming, board/video games and climbing.

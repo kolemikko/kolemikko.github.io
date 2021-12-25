@@ -1,9 +1,10 @@
 #+TITLE: My homepage
 
-*  Created from org-file
+
+This is my humble website, one day I'll actually update this and put some cool stuff here. I really should at least, now that I have this cool build system from org-files.
 
 #+begin_src emacs-lisp
- (message "Oh my, it seems to work")
+ (message "Oh my, it actually works...")
 #+end_src
 
 * Links
