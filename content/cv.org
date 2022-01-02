@@ -1,7 +1,7 @@
-#+TITLE: CV
+#+TITLE: Curriculum Vitae
 
 * Mikko Kolehmainen
-*** Programmer, developer and problem solver
+*** Programmer, software developer and problem solver
 
 * Education
 **** *Aalto University, Sound in New Media*
