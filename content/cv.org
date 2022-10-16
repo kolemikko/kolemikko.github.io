@@ -1,8 +1,7 @@
 #+TITLE: Curriculum Vitae
 
 * Mikko Kolehmainen
-*** Programmer, software developer and problem solver
-
+*** Software developer and hardware tinkerer
 * Education
 **** *Aalto University, Sound in New Media*
 Master of Arts degree in interactive sound design including game design and computer science studies. Master’s thesis on topic “How to optimize the implementation process and data management in game audio production” (2020).
