@@ -12,7 +12,9 @@ Bachelor of Music (2016), Music and Technology department
 
 * Work history
 
-Working as a audio programmer at *Rovio Entertainment* (2021-).
+Working as a tools & tech programmer at *Metacore* (2022-).
+
+Worked as a audio programmer at *Rovio Entertainment* (2021-2022).
 
 Worked as a junior audio programmer at *Remedy Entertainment* (2020-2021) on unannounced game project and internal development. Co-designing and programming features for in-house game engine Northlight, maintaining audio code base and middleware integration, but also developing custom tools for the audio pipeline.
 
@@ -26,11 +28,11 @@ Worked as sound designer for *3rd Eye Studios* (2017-2018) on title Downward Spi
 
  Variety of tools, standalone applications and extensions for 3rd party software such as *Unity*,  Audiokinetic *Wwise* and Cockos *Reaper*. Some examples: automated implementation and asset management extension for Wwise, dialogue/ADR recording software, code reference finder, version control and automation extensions for Reaper.
 
- Personal projects include file encryption tools, file finding and parsing tools, customizing linux systems and scripting, signal processing tools, generative music sofware and random projects with Arduino with wide selection of sensors.
+ Personal projects include file encryption tools, file finding and parsing tools, customizing linux systems and scripting, signal processing tools, generative music sofware and random projects with Arduino/Esp32 with wide selection of sensors.
 
 ** Skills
 
- Professional experience with *C++*, *C#*, *Python* and *Lua*, and personal projects additionally *Rust*, *Go*, *Elisp*, and scripting languages.
+ Professional experience with *Rust*, *C++*, *C#*, *Python* and *Lua*, and personal projects additionally *Go*, *Elisp*, and scripting languages.
 
  Solid understanding of editors and software development tools such as *Vim*, *Emacs*, Visual Studio, Pycharm, Rider, *Git* and Perforce.
 
@@ -42,4 +44,4 @@ Worked as sound designer for *3rd Eye Studios* (2017-2018) on title Downward Spi
 
 ** Freetime
 
- Outside of work, I'm interested in number of things e.g. DIY, music, farming, board/video games and climbing.
+ Outside of work, I'm interested in number of things e.g. DIY, music, farming, board/video games, climbing and cycling.
